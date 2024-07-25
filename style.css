@@ -141,7 +141,8 @@ h2 {
 
     width: 273px;
 
-    margin-left: 2.5rem;
+    margin-left: auto;
+    margin-right: auto;
 
     position: absolute;
 
